@@ -2,7 +2,7 @@
 
 Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements? Hint: Think backward from what the business may need. Share your assignment with me by creating a repo (like this one if you haven't already) and writing down your notes/code under the folder for lesson 1.
 
-#Answer:
+# Answer:
 I would start by going in discussion with stakeholders from the business needs.
 
 From the stakeholders I would rank the desired outcomes of a data solution, in terms of business impact and need.
